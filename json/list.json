@@ -1,0 +1,47 @@
+[
+    {
+        "artist": "Caparezza",
+        "title": "Exuvia",
+        "releaseYear": "2021",
+        "genre": "Alternative hip hop",
+        "cover" : "https://upload.wikimedia.org/wikipedia/commons/6/65/Exuvia_logo.svg"
+    },
+    {
+        "artist": "Jimi Hendrix Experience",
+        "title": "Are You Experienced?",
+        "releaseYear": "1967",
+        "genre": "Rock",
+        "cover" : "https://upload.wikimedia.org/wikipedia/commons/3/33/Are_You_Experienced_-_US_cover-edit.jpg"
+    },   {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Fleetwood Mac",
+        "title": "Rumours",
+        "releaseYear": "1977",
+        "genre": "Rock",
+        "cover" : "https://images-eu.ssl-images-amazon.com/images/I/71ul3u8SbjL._AC_UL600_SR600,600_.jpg"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Michael Jackson",
+        "title": "Thriller",
+        "releaseYear": "1982",
+        "genre": "Pop",
+        "cover" : "https://m.media-amazon.com/images/I/51CRK0-fAbS._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Bruce Springsteen",
+        "title": "Born to Run",
+        "releaseYear": "1975",
+        "genre": "Rock",
+        "cover" : "https://m.media-amazon.com/images/I/81F3mfg8WnL._AC_SL1500_.jpg"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "The Eagles",
+        "title": "Hotel California",
+        "releaseYear": "1976",
+        "genre": "Rock",
+        "cover" : "https://pure-music.co.uk/wp-content/uploads/2019/04/Hotel-California-Album-Cover.png"
+    }
+]
