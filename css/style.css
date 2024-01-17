@@ -1,0 +1,23 @@
+body{
+    background-color: #1d2d3c;
+}
+
+header{
+    background-color: #06131f;
+    height: 80px;
+}
+
+header img{
+    height: 50%;
+}
+
+.my-card{
+    background-color: #112030;
+    color: white;
+    text-align: center;
+}
+
+footer{
+    height: 100px;
+    background-color: #06131f;
+}
